@@ -1,2 +1,2 @@
-# MyHadoop
+# Hadoop
 Hadoop data
